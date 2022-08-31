@@ -15,7 +15,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src={AUGUSTA} alt="About Image" />
+            <img src={AUGUSTA} alt="profile" />
           </div>
         </div>
 
@@ -41,19 +41,27 @@ const About = () => {
             </div>
 
             <p>
-              I am a master in business management and administration, professional software engineer,
-              writing consultant and a passionate speaker. Starting out as a young entrepreneur in the business world,
-              i was able to build a successful business team with great leadership qualities and business strategies 
-              in the network marketing industry. Through successful years of experience and growths, i founded an 
+              I am a professional software engineer with three years of
+              experience in web/software development, software engineering services like, 
+              Website Designs, APIs and Database Development, Java Development Services with Spring Framework.
+              A qualified agile leader with excellent collaborative skills.
+
+                <br/> <br/> 
+
+              I have been able to gain experience in business management and administration, as a qualified writing consultant, and also passionate speaker.
+              Starting out as a young entrepreneur in the business world,
+              I was able to build a successful business team with great leadership qualities and business strategies 
+              in the network marketing industry. <br/><br/> Through successful years of experience and growths, i founded an 
               Agro-Allied Ecommerce company with the mission of uplifting the agricultural sector in Africa. Solving
-              problems and creating new technologies are my passions and purpose for living.
-              Being a master of business isn't enough but paving ways of opportunities an impact makes a huge difference as 
-              i am also a firm investor in assets. 
+              problems and creating new technologies are my passions and purpose for living. I am also a firm investor in assets.
+              Being a master of business isn't enough but paving ways for opportunities through innovative impact makes a huge difference.
               
+              <br/> <br/>
+
               Through series of failures and complicated situations in the course of 
               my career, i have been able to sucessfully balance work life and personal life. I am totally happy person, creatively spontaneous and 
-              take utmost pleasure in adventures. Change is my prerequisite for living a fulfilling life, taking the chance to evolve
-              at anytime...leading without bounds.
+              take utmost pleasure in adventures. Constant positive change and adaptability is my prerequisite for living a fulfilling life, taking 
+              the chance to evolve at anytime. Leading without bounds.
             </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
           </div>

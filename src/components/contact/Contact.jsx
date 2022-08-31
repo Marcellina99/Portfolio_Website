@@ -28,21 +28,21 @@ const Contact = () => {
             <h4>Email</h4>
             <MdOutlineMail className='contact__option-icon'/>
             <h5>augustaeshiowula@gmail.com</h5>
-            <a href="mailto:augustaeshiowula@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:augustaeshiowula@gmail.com">Send a message</a>
           </article>
 
           <article className="contact__option">
             <h4>Telegram</h4>
             <FaTelegramPlane className='contact__option-icon'/>
             <h5>+2349081398737</h5>
-            <a href="hhtps://te.me/augusta.eshiowula" target="_blank">Send a message</a>
+            <a href="https://te.me/augusta.eshiowula">Send a message</a>
           </article>
 
           <article className="contact__option">
             <h4>WhatsApp</h4>
             <BsWhatsapp className='contact__option-icon'/>
             <h5>+2349081398737</h5>
-            <a href="https://api.whatsapp.com/send?phone+2349081398737" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone+2349081398737" >Send a message</a>
           </article>
         </div>
 
