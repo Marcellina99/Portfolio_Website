@@ -7,33 +7,31 @@ const Services = () => {
     <section id='services'>
       <h5>What I Offer</h5>
       <h2>Services</h2>
-
       <div className="container services__container">
-        <article className="service">
+      <article className="service">
           <div className="service__head">
-            <h3>Writing/Blogging</h3>
+            <h3>Full-Stack Software Engineering</h3>
           </div>
-
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Product Development and Implementation.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>API Documentations</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Software Testing and Integration.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Technical Communication.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Database Design and Implementation.</p>
             </li>
           </ul>
         </article>
@@ -46,52 +44,52 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Website Design and Re-design.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>E-commerce Development</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Landing Page and Scripting.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Custom Websites Applications.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Web Development Consultation </p>
             </li>
           </ul>
         </article>
 
         <article className="service">
           <div className="service__head">
-            <h3>Product/Software Engineering</h3>
+            <h3>Writing/Blogging</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Memoirs</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Blogs/White Papers</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Software Product Analysis/ Technical Content.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Proofreading and Editing.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur elit.</p>
+              <p>Research Articles/Paper Works.</p>
             </li>
           </ul>
         </article>
